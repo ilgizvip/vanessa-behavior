@@ -6,7 +6,7 @@
 
 ## BDD for 1С:Enterprise
 
-Текущий релиз в ветке [Master: 1.1.067](https://github.com/silverbulleters/vanessa-behavior/tree/master)
+Текущий релиз в ветке [Master: 1.1.096](https://github.com/silverbulleters/vanessa-behavior/tree/master)
 Разработка ведется в ветке [Develop](https://github.com/silverbulleters/vanessa-behavior/tree/develop). Эта же ветка является основной.
 
 Проект использует принцип формирования автодокументации в формате Markdown и видео:
@@ -184,7 +184,7 @@ git submodule update --init --recursive
 * [Огурец](https://cukes.info/)
 * [Автоматизированное тестирование 1С](http://v8.1c.ru/overview/Term_000000816.htm)
 * [Yandex Allure](http://allure.qatools.ru/)
-* [Silenium](http://docs.seleniumhq.org/)
+* [Selenium](http://docs.seleniumhq.org/)
 * [ТРИЗ](https://ru.wikipedia.org/wiki/Теория_решения_изобретательских_задач)
 * [Дэн Норт](http://en.wikipedia.org/wiki/Acceptance_test-driven_development)
 
@@ -214,7 +214,7 @@ git submodule update --init --recursive
 * **A:** для этого существует другой закрытый инструментарий, который использует Vanessa-Behavior как клиента тестирования - используется в Enterprise проектах.
 
 * **Q: Что вы думаете об "1С:Сценарное Тестирование" ?**
-* **A:** на наш взгляд, "Сценарное Тестирование" слишком дорого по совокупной стоимости владения (TOC), поэтому пусть живет своей жизнью вместе с "СППР". Обратите внимание, "Учебный Центр №1" проводит подготовку слушателей по функционалу тестирования в 1С:Предприятии [(ссылка на Facebook)](https://www.facebook.com/1631718833760014/posts/1715544585377438/) - если Вас интересует функционал "Сценарного Тестирования", возможно стоит записаться именно на этот курс, а не ходить по GitHub ссылкам.
+* **A:** на наш взгляд, "Сценарное Тестирование" слишком дорого по совокупной стоимости владения (TOC). Обратите внимание, "Учебный Центр №1" проводит подготовку слушателей по функционалу тестирования в 1С:Предприятии [(ссылка на Facebook)](https://www.facebook.com/1631718833760014/posts/1715544585377438/) - если Вас интересует функционал "Сценарного Тестирования", возможно стоит записаться именно на этот курс.
 
 ## Enterprise Support
 
